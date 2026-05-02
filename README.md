@@ -371,7 +371,7 @@ By optimizing these factors, the business can significantly improve profit margi
 ---
 ## **Project link**
 
-🔗 Live Dashboard: https://saitejajakkula.github.io/Ecommerce-Business-Analytics-Dashboard/
+🔗 Live Dashboard: [https://saitejajakkula.github.io/E-commerce-sales-profitability-performance-analysis-dashboard/]
 
 ---
 ## **🛠️ Tools & Skills Used**
