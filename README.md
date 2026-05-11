@@ -59,15 +59,15 @@ The goal of this project is to:
 
 # Key Business Questions Answered
 
-Which categories generate the highest profitability?
+1) Which categories generate the highest profitability?
 
-Are discounts improving revenue at the expense of margin?
+2) Are discounts improving revenue at the expense of margin?
 
-Which sales channels are operationally most efficient?
+3) Which sales channels are operationally most efficient?
 
-Which regions underperform despite strong revenue?
+4) Which regions underperform despite strong revenue?
 
-How effectively is marketing spend translating into revenue?
+5) How effectively is marketing spend translating into revenue?
 
 # Executive Summary
 
