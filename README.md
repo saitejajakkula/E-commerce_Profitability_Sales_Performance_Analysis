@@ -1,4 +1,4 @@
-# Global E-Commerce Profitability & Sales Performance Analysis
+# Global E-commerce Profitability & Sales Performance Analysis
 
 A consulting-style business analysis project focused on profitability optimization, KPI analysis, and strategic decision-making in global e-commerce operations.
 
