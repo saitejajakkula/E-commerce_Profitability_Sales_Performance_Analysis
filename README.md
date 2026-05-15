@@ -379,7 +379,7 @@ By improving pricing discipline, reducing excessive discounts, and focusing on h
 # Project Link
 
 🔗 Live Dashboard:  
-https://saitejajakkula.github.io/E-commerce-sales-profitability-performance-analysis-dashboard/
+https://saitejajakkula.github.io/E-commerce_Profitability_Sales_Performance_Analysis/
 
 ---
 
