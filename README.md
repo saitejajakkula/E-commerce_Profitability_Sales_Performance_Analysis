@@ -279,7 +279,6 @@ The project followed a structured business analysis and analytics workflow:
 # Core Data Analysis
 
 <img width="1821" height="832" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/71b8184b-caf6-4df6-a9d8-6ff93db1fe21" />
-
 <img width="1814" height="113" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/1ac38400-45f4-4035-b635-ba7682e8067c" />
 
 *Figure: Monthly Revenue & Profit Trend alongside Revenue Distribution by Sales Channel*
